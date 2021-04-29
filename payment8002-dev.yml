@@ -1,4 +1,4 @@
-name: zhangsan
+name: lisi
 spring:
   cloud:
     consul:
