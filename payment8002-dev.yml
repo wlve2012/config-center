@@ -1,4 +1,5 @@
-ispring:
+name: zhangsan
+spring:
   cloud:
     consul:
       host: localhost
