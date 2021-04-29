@@ -15,7 +15,7 @@ mybatis:
   mapper-locations: classpath:mapper/*.xml
   type-aliases-package: com.cloud.learn.dao
 server:
-  port: 8003
+  port: 8002
 
 eureka:
   client:
